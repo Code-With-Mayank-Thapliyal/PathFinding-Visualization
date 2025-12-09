@@ -3,7 +3,7 @@
 A web application to visualize pathfinding algorithms. This project demonstrates how different algorithms traverse through a grid to find the shortest path between a start point and an endpoint. It serves as an educational tool for understanding algorithmic behavior visually.
 
 ![Pathfinding Visualization Demo](pathfinding-demo.gif)
-
+**[Live Demo on Netlify](https://pathfindingvisualization.netlify.app)**
 
 ## Features
 - Visualizes popular pathfinding algorithms:
