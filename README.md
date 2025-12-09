@@ -4,7 +4,6 @@ A web application to visualize pathfinding algorithms. This project demonstrates
 
 ![Pathfinding Visualization Demo](pathfinding-demo.gif)
 
-**[Live Demo on Netlify](https://pathfindingvisualization.netlify.app)**
 
 ## Features
 - Visualizes popular pathfinding algorithms:
@@ -17,14 +16,7 @@ A web application to visualize pathfinding algorithms. This project demonstrates
 - Interactive interface with dynamic updates
 - Real-time visualization of algorithm progress
   
-![pathfinding-demo](https://github.com/user-attachments/assets/1f00d8be-fd4c-4855-9b2a-95794dadb8fc)
 
 ## Technologies Used
 
 - **Frontend:** HTML, CSS, JavaScript
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/AyushUniyal2003/-Pathfinding-Visualization.git
