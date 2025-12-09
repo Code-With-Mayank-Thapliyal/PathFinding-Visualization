@@ -16,7 +16,6 @@ A web application to visualize pathfinding algorithms. This project demonstrates
 - Interactive interface with dynamic updates
 - Real-time visualization of algorithm progress
   
-![pathfinding-demo](https://github.com/user-attachments/assets/1f00d8be-fd4c-4855-9b2a-95794dadb8fc)
 
 ## Technologies Used
 
